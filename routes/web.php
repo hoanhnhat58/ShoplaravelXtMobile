@@ -13,7 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 //Auth::routes();
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
 Route::get('home', [ 'as' => 'trang-chu', 'uses' => 'App\Http\Controllers\PageController@getIndex']);
+Route::get('/', [ 'as' => 'trang-chu', 'uses' => 'App\Http\Controllers\PageController@getIndex']);

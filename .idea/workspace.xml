@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f469a4-7245-4e0b-9516-23f03ae7e930" name="Default Changelist" comment="push">
-      <change afterPath="$PROJECT_DIR$/.idea/ShoplaravelXtMobile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/pages/new-promotion.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/pages/product-accessories.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/pages/product-type.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ShopbanhangDT.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
+    <list default="true" id="56adf26f-fc6f-406e-89c6-9ec555fbac00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +10,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -138,7 +127,7 @@
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1qqUTvCYzt5115ghSKEtuzeDzKK" />
+  <component name="ProjectId" id="1qhybVHbafgCaNIPI2UMl1P2YmB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,6 +136,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -158,12 +148,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64f469a4-7245-4e0b-9516-23f03ae7e930" name="Default Changelist" comment="" />
-      <created>1617806624797</created>
+      <changelist id="56adf26f-fc6f-406e-89c6-9ec555fbac00" name="Default Changelist" comment="" />
+      <created>1617546188122</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617806624797</updated>
-      <workItem from="1617806626016" duration="2010000" />
+      <updated>1617546188122</updated>
+      <workItem from="1617546189241" duration="1084000" />
+      <workItem from="1617798279763" duration="1690000" />
+      <workItem from="1617800342267" duration="343000" />
+      <workItem from="1617801182700" duration="999000" />
+      <workItem from="1617804198961" duration="1667000" />
+      <workItem from="1618140984423" duration="976000" />
+      <workItem from="1618146690526" duration="117000" />
+      <workItem from="1618320704791" duration="3126000" />
     </task>
     <servers />
   </component>
@@ -180,9 +177,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
